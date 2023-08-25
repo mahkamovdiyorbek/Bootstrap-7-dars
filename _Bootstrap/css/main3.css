@@ -1,0 +1,14 @@
+body{
+    background-color: white;
+}
+.col-md-6{
+    position: absolute;
+    top: 50px;
+    left: -50px;
+}
+.btn-light{
+    color: blue;
+}
+.conteiner{
+    margin-left: 550px;
+}
